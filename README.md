@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **sh9351/sh9351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently working on [TripNode](https://www.youtube.com/channel/UC_PE-_y5oh82YtDMwHRVMww/featured) & [Withmove](https://npmjs.com/withmove)
+
+# Stacks
+<img src="https://img.shields.io/badge/-HTML-orange"> <img src="https://img.shields.io/badge/-CSS-blue"> <img src="https://img.shields.io/badge/-JS-yellow"> <img src="https://img.shields.io/badge/-Node.js-brightgreen"> <img src="https://img.shields.io/badge/-Docker-blue"> <img src="https://img.shields.io/badge/-Github-black"> <img src="https://img.shields.io/badge/-GCP-blue"> <img src="https://img.shields.io/badge/-Electron-blue">
+
+# Portfolio
+[Korean](https://sh9351.github.io)
